@@ -1,0 +1,14 @@
+ipykernel
+numpy
+pandas
+matplotlib
+scikit-learn
+seaborn
+streamlit
+torch 
+torchvision
+torchtext
+transformers
+SentencePiece
+accelerate==1.2.1
+
